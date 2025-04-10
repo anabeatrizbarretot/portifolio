@@ -1,0 +1,13 @@
+:root {
+    --azul-turquesa: '#026E81';
+    --azul-turquesa-claro: '#00ABBD';
+    --azul: '#0099DD';
+    --laranja: '#FF9933';
+    --azul-claro: '#A1C7E0';
+    --fonte-principal: 'Poppins', sans-serif;
+    --fonte-secundaria: 'Roboto', sans-serif;
+}
+
+body{
+    font-family: var(--fonte-secundaria);
+}
